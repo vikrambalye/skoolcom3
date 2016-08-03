@@ -17,6 +17,9 @@
 <td>Email</td>
 <td><input type="text" name="email"></td>
 </tr>
+<td>Mobile</td>
+<td><input type="text" name="mobile"></td>
+</tr>
 <tr>
 <td><input type="submit" value="Submit" name="submit"></td>
 </tr>
